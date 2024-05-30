@@ -4,7 +4,7 @@ zip="url.to.wizard"
 
 name="prueba"
 version="24.05.1"
-url="https://mega.nz/file/IYpihLiA#_9jhLHLp0jxenNEtY-u4Uug243IAnYys-JDMg3JIzqQ"
+url="https://filebrowser.higniomoreda.duckdns.org/api/public/dl/tM-70aA5/prueba.zip"
 minor="http://"
 gui="https://"
 kodi="21"
