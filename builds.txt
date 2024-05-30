@@ -1,5 +1,5 @@
 id="plugin.program.openwizard"
-version="2.0.8"
+version="2.0.7"
 zip="url.to.wizard"
 
 name="prueba"
