@@ -2,6 +2,9 @@ id="plugin.program.openwizard"
 version="2.0.7"
 zip="url.to.wizard"
 
+
+
+
 name="prueba"
 version="24.05.2"
 url="https://1fichier.com/?izadli8awx61wn7k9wn7"
